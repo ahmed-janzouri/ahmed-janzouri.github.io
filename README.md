@@ -1,7 +1,6 @@
 # Ahmed Janzouri - Engineering Portfolio 🚀
 
 ### 🔴 LIVE DEMO: [Click Here to View My Portfolio](https://ahmed-janzouri.github.io)
-*(Note: If you haven't changed your username yet, use https://Ajh119.github.io instead)*
 
 ---
 
